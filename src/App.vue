@@ -1,5 +1,6 @@
 <template>
   <v-app>
+    <FrontPage></FrontPage>
   </v-app>
 </template>
 
