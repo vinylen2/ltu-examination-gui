@@ -1,4 +1,5 @@
 "use strict";
+// ERIK AND GABRIEL: this file was generated automatically when installing axios plugin
 
 import Vue from 'vue';
 import axios from "axios";
@@ -8,6 +9,7 @@ import axios from "axios";
 // axios.defaults.headers.common['Authorization'] = AUTH_TOKEN;
 // axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
 
+// ERIK AND GABRIEL: This is where we put the URL for all API-requests made by axios.
 let config = {
   baseURL: 'http://localhost:3000',
   // timeout: 60 * 1000, // Timeout
